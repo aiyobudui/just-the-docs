@@ -63,7 +63,7 @@ Note: If you are using a Jekyll version less than 3.5.0, use the `gems` key inst
 
     url: https://YOUR-USERNAME.github.io/YOUR-SITE-NAME
 
-    aux_links: # remove if you don't want this link to appear on your pages
+    aux_links: # 如果您不希望此链接出现在您的页面上，请删除该链接
       Template Repository: https://github.com/YOUR-USERNAME/YOUR-SITE-NAME
     ```
 
