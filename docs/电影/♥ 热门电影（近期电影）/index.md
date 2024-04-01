@@ -1,3 +1,10 @@
+---
+layout: home
+title: ♥ 热门电影（近期电影）
+nav_order: 2
+---
+
+
 热门电影（近期电影）总目录
 夸克：https://pan.quark.cn/s/35d808610e19
 迅雷：https://pan.xunlei.com/s/VNo0NwVnK4FdRof0glCkSHsiA1?pwd=bn7k#
