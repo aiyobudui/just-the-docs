@@ -1,6 +1,9 @@
 ---
+layout: default
 title: 首页
-layout: home
+nav_order: 1
+description: "资源都是免费分享，有电影，美剧，日剧，国产剧，游戏，短剧，音乐，课程等."
+permalink: /
 ---
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
